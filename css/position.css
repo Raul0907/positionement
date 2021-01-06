@@ -1,0 +1,43 @@
+*{
+    margin: 10px;
+}
+section{
+    border: 2px solid yellow;
+   padding: 150px;
+}
+div{
+    border: 1px solid;
+    padding: 50px;
+}
+.green, .green1, .green2{
+background-color: green;
+}
+.bleu, .bleu1, .bleu2{
+background-color: #143ba8;
+}
+.maron, .maron1, .maron2 {
+background-color: brown;
+}
+.bleu1{
+    position: relative;
+    left: 100px;
+}
+.maron1{
+    position: relative;
+    right: 300px;
+}
+.bleu2, .green2{
+    position: relative;
+}
+.maron2{
+    
+    position: absolute;
+    /*Centering  brown square -(10px margins+ 60px pading)*/
+    left: 50%;
+    margin-left: -60px;;
+}
+.lightblue{
+    background-color: #37789e;
+    position: relative;
+    margin-bottom: 100px;
+}

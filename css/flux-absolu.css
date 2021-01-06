@@ -1,0 +1,41 @@
+div{
+    border: 1px black solid;
+    padding: 40px;
+}
+.bloc1{
+    background-color: #2b99b4;
+    position: relative;
+    left: 40%;
+    box-sizing: content-box;
+    height: 200px;
+    width: 200px;
+}
+.bloc2{
+    background-color:green;
+    position: absolute;
+    top: 25px;
+    left: 30px;
+}
+.bloc3{
+    z-index: 3;
+    background-color: blue;
+    position: absolute;
+    left: 60px;
+    top: 60px;
+}
+.bloc4{
+    z-index: 2;
+    background-color: brown;
+   position: absolute;
+   left: 120px;
+   top: 120px;
+}
+.bloc5{
+    z-index: 1;
+    background-color:yellow;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    bottom: 25px;
+    right: 50px;
+}

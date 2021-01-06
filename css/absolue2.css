@@ -1,0 +1,22 @@
+div{
+    border: 1px black solid;
+    padding: 50px;
+}
+.bloc1{
+    background-color: #3b7bb6;
+}
+.bloc2{
+    background-color: green;
+    position: absolute;
+    left: 40%;
+    top: 30%;
+}
+.bloc3{
+    background-color: #3f3fa7;
+}
+.bloc4{
+    background-color:brown;
+    position: absolute;
+    left:  120%;
+    top: 120%;
+}
