@@ -1,0 +1,48 @@
+.first{
+    border: 1px black solid;
+    padding: 50px;
+    height: 500px;
+    width: 500px;
+}
+div{
+    border: 1px black solid;
+    padding: 50px;
+}
+.bloc1{
+    background-color: green;
+    float: left;
+    position: relative;
+    /*height: 10px;
+    width: 10px;*/
+    top: 63px;
+}
+.bloc2{
+    background-color: purple;
+    position: relative;
+    /*height: 10px;*/
+    width: 10px;
+    top: 63px;
+    left: 102px;
+}
+.bloc3{
+    background-color: orange;
+    position: relative;
+   top: 63px;
+}
+.bloc4{
+    background-color: yellow;
+    position: relative;
+    float: right;
+   /* height: 10px;
+    width: 10px;*/
+    top: 63px;
+}
+.bloc5{
+    background-color: grey;
+    position: relative;
+    float: right;
+   /* height: 10px;
+    width: 10px;*/
+    bottom: 51px;
+    top: 63px;
+}
