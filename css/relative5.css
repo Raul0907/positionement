@@ -1,0 +1,42 @@
+div{
+    border: 1px black solid;
+    padding: 40px;
+}
+.bloc1{
+    background-color: rgb(43, 153, 180);
+    position: relative;
+    left: 40%;
+    box-sizing: content-box;
+    height: 200px;
+    width: 200px;
+}
+.bloc2{
+    background-color:#37dd0d;
+    position: relative;
+    top: 2px;
+    height: 10px;
+    width: 10px;
+}
+.bloc3{
+    background-color:brown;
+    position: relative;
+    top: 5px;
+    height: 10px;
+    width: 10px;
+}
+.bloc4{
+    background-color: blue;
+    position: relative;
+    top: -182px;
+    left: 100px;
+    height: 10px;
+    width: 10px;
+}
+.bloc5{
+    background-color:yellow;
+    position: relative;
+    top: -179px;
+    left: 100px;
+    height: 10px;
+    width: 10px;
+}
